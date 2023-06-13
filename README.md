@@ -1,8 +1,8 @@
 # GraphiQL Playground
 
-![app screen](./graphiql-app/public/readme-1.png)
-
 GraphiQL is the playground/IDE for graphQL requests. This project is made for graphQL requests to the Rick and Morty API.
+
+![app screen](./graphiql-app/public/readme-1.png)
 
 ## Deployment
 
@@ -17,7 +17,6 @@ GraphiQL is the playground/IDE for graphQL requests. This project is made for gr
 - Typescript
 - Vite
 - Firebase
-- Monaco-graphQL
 - Eslint
 
 ## Key features:
